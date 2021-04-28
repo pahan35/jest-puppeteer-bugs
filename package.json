@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo \"Use 'npm run test' to run bugs\" && exit 1",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
